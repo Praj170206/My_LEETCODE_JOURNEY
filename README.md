@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0151-reverse-words-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
