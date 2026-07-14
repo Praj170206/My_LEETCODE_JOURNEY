@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0035-search-insert-position) |
+| [0118-pascals-triangle](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
