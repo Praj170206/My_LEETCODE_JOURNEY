@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0118-pascals-triangle) |
+| [0162-find-peak-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0162-find-peak-element) |
 ## Dynamic Programming
 |  |
 | ------- |
