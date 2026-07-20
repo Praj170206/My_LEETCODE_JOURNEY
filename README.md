@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
+| [0875-koko-eating-bananas](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
