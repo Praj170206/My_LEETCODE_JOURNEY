@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0875-koko-eating-bananas](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0875-koko-eating-bananas) |
+| [1260-shift-2d-grid](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
