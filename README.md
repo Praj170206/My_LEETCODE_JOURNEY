@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0875-koko-eating-bananas](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0875-koko-eating-bananas) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -68,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
@@ -94,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
