@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0875-koko-eating-bananas](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0875-koko-eating-bananas) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
