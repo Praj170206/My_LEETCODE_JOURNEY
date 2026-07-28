@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0151-reverse-words-in-a-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
 ## Queue
 |  |
