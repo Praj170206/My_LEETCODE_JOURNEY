@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
