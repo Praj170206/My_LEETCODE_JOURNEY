@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0125-valid-palindrome) |
