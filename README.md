@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0875-koko-eating-bananas](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
