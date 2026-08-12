@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
