@@ -146,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Praj170206/My_LEETCODE_JOURNEY/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
